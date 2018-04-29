@@ -7,3 +7,6 @@ While this worked to the extent that I was able to print tweets containing a key
 The basic process is to exit the "p5 server" that will likely be running in a terminal window, then "cd" to the "project twitter" subdirectory of the "collections" folder, then run "node bot.js".
 
 When done with twitter, go back to the collection directory and execute "p5 server".
+
+
+This process has now been implemented as a dyno in Heroku and may be executed from its website. It may be necessary to go to the "more" drop down menu to "restart all dyno".
