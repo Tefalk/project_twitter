@@ -9,7 +9,7 @@ The basic process is to exit the "p5 server" that will likely be running in a te
 
 Description of using git to make changes to the Heroku code
 
-Commit your code (after making changes by editing bot.js).
+Commit your code (after making changes by editing bot.js, this github version is not current, see project_twitter folder).
 $ git add .
 $ git commit -am "commiting the code"
 Send to heroku!
